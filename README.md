@@ -1,1 +1,2 @@
 # DubboStudyDemo
+一个dubbo生产者消费者的练手demo项目
